@@ -33,6 +33,9 @@ init
 		case "E5411222E5247B981EF2B1FC219B770A":
 			version = "1.03";
 			break;
+		case "89E4C3D0AF6C86DB2312FB911DAFEC91":
+			version = "1.03";
+			break;
 	}
 	print("ModuleMemorySize: " + modules.First().ModuleMemorySize.ToString());
 }
